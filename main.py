@@ -20,4 +20,4 @@ print (f"{device_3:<16}{model_3:<20}{role_3}")
 
 print ("-" * 52)
 print ("Antal enheter: 3")
-# Har inget eget "rack" så kan inte göra steg 2.
+# Har inget eget "rack" så kan inte göra steg 2
