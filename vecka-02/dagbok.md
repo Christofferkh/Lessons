@@ -1,1 +1,1 @@
-lätt 
+#Tyckte att det var ganska samma som uppgift 1. Lite svårt att få sin dators mac-address, då jag inte visste först vilket command jag skulle skriva i terminal.
