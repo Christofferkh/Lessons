@@ -1,1 +1,1 @@
-ny text till readme
+Allt jag gör i skolan
